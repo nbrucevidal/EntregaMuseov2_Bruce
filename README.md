@@ -1,2 +1,2 @@
 # PrimeraEntrega_SeminarioI
-Segunda Version
+Segunda Version 16 de Abril, 2019
