@@ -1,0 +1,102 @@
+
+@import url('https://fonts.googleapis.com/css?family=Francois+One');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow');
+@import url('https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700');
+
+body{
+font-family: 'Francois One', sans-serif;
+  font-weight: 300;
+}
+
+nav{
+font-family: 'Francois One', sans-serif;
+  font-weight: 400;
+  color: #ab38ff;
+}
+
+
+
+.morado {
+    background-color:#2d004e;
+    color:white;
+}
+
+
+
+
+header {
+  position: relative;
+  background-color: black;
+  height: 75vh;
+  min-height: 25rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+header h1{ text-shadow: 2px 2px 0 rgba(0,255,255,.5);
+
+}
+
+h1{
+ font-family: 'Oswald', sans-serif;
+  color: #00ffce;
+  font-size: 100px;font-weight: 700;  
+}
+
+p{
+font-family: 'PT Sans Narrow', sans-serif;
+  color: #00ffce; 
+}
+
+p .card-text{
+ color: #f21313;
+}
+
+
+header video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: 0;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+header .container {
+  position: relative;
+  z-index: 2;
+
+}
+
+header .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  font-size: 30px;
+  opacity: 0.5;
+  z-index: 1;
+}
+
+div .row{
+  background-color: black;
+}
+
+var sexto{
+  color:black;
+    
+    
+    
+}
+.card {background:rgba(245, 245, 245, 0.5) 
+    ;
+
+}
